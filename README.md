@@ -7,3 +7,10 @@ This is a new line to see how this thing works.
 Lets make sure this thing is seen here in Github.
  <br>
  Making sure this alos gets added
+
+
+ <br>
+
+ # Learning Git hub isn't that fun actually, 
+ <br> I thought it would be more fun, but it isn't.
+ 
